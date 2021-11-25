@@ -1,2 +1,6 @@
 # GFG-solutions
-Collection of Mathematical problems from GFG.
+## Todo
+- [ ] Print the pattern 
+- [ ] Closest Number
+- [ ] Binary number to decimal number
+- [ ] Jumping Numbers
